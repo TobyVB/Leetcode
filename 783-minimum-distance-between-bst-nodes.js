@@ -31,12 +31,13 @@ var minDiffInBST = function (root) {
 };
 
 // Feb 17, 2023
+// Easy
 // What I've learned:
 // Practice with Binary Search Tree
-// I like this solution because it's easier read plainly.
+// I like this solution because it's easier to read plainly.
 
 /* 
-Poblem: Find the smallest difference of values between any two nodes.
+PROBLEM: Find the smallest difference of values between any two nodes.
 
 In a binary search tree the leftward child node is has a lesser value than
 the parent node, and the rightward child node has a greater value than the parent node.

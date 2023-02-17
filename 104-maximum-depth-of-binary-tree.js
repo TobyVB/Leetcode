@@ -17,4 +17,5 @@ var maxDepth = function (root) {
 };
 
 // Feb 16, 2023
+// Easy
 // Through studying this problem, I learned about binary tree datastructures and recursion
